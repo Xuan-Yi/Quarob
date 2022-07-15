@@ -1,0 +1,4 @@
+I2C address = 0x40 (default address for PCA9685)
+MIN_PULSE_WIDTH = 510  (us)
+MAX_PULSE_WIDTH = 2410 (us)
+SERVO_FREQ = 50  (Hz, frequency of square waves)
